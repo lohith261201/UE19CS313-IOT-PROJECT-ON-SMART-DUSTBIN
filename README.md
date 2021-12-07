@@ -4,4 +4,4 @@ Both the phases are completed.
 Report regarding the cloud integration phase is also uploaded.
 
 
-# CLOUD INTEGRATION USING BLYNK APP.
+#                                                     CLOUD INTEGRATION USING BLYNK APP
